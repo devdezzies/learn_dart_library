@@ -1,7 +1,8 @@
 name: learn_dart_library
-description: A starting point for Dart libraries or applications.
+description: This library is intended for educational purpose
 version: 1.2.0 # update for sayHello
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/devdezzies/learn_dart_library
+homepage: https://www.abdullahspace.me
 
 environment:
   sdk: ^3.2.3
